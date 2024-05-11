@@ -1,0 +1,3 @@
+- 👋 Hola, Soy @carol-arias y soy profesora de matemática. Recientemente cursé un máster de técnicas estadísticas lo que me motivó mucho a incursionar en el mundo de la programación y los datos. 
+- 🌱 Actualmente estoy aprendiendo Programación con Python en el Bootcamp de Coding Dojo como becaria del Banco Chile. 
+- 📫 Si quieres puedes enviarme un email a cparias1@uc.cl para charlar! 
